@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.oasis-open.dita.v1_3_stage3.svg.domain">
+	<feature extension="dita.specialization.catalog.relative" file="catalog.xml"/>
+</plugin>

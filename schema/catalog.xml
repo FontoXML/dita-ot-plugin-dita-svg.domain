@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+	<system systemId="svgDomainMod.xsd" uri="svgDomainMod.xsd"/>
+	<system systemId="urn:oasis:names:tc:dita:xsd:svgDomainMod.xsd:1.3" uri="svgDomainMod.xsd"/>
+	<uri name="svgDomainMod.xsd" uri="svgDomainMod.xsd"/>
+	<uri name="urn:oasis:names:tc:dita:xsd:svgDomainMod.xsd:1.3" uri="svgDomainMod.xsd"/>
+
+</catalog>
